@@ -266,8 +266,8 @@ function finishedCallback(resultsLines) {
             // We've finished the experiment.
             var data = document.getElementById('data');
             data.value = JSON.stringify(allResults);
-            submit.click();
-            alert("Your answers have been submitted.");
+            submit.hidden = false;
+            //alert("Your answers have been submitted.");
             // indicateThatResultsAreBeingSent();
             // sendResults(allResults,
             //             function() { indicateThatResultsWereSent(true); },
