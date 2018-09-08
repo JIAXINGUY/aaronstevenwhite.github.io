@@ -2,6 +2,9 @@ var serverURI = "server.py";
 
 var body = document.getElementsByTagName("body")[0];
 
+var submit = document.getElementById('submitButton');
+submit.hide();
+
 counter = Math.floor(Math.random() * 10000);
 randomCounter = true;
 
@@ -261,9 +264,10 @@ function finishedCallback(resultsLines) {
         ++posInRunningOrder;
         if (posInRunningOrder >= runningOrder.length) {
             // We've finished the experiment.
-            $('#data').value = JSON.stringify(allResults);
-            $('#submitButton').click();
-            alert("Your answers have been submitted");
+            var data = document.getElementsById('data');
+            data.value = JSON.stringify(allResults);
+            submit.click();
+            alert("Your answers have been submitted.");
             // indicateThatResultsAreBeingSent();
             // sendResults(allResults,
             //             function() { indicateThatResultsWereSent(true); },
