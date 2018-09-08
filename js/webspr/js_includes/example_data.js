@@ -55,7 +55,7 @@ var items = [
 ["f", ds, {s: "The woman that John had seen in the subway bought himself a pair of stunning shoes that cost a fortune."}],
 ["f", ds, {s: "If the award-winning chef had entered this competition, he surely would have won first prize."}],
 ["f", ds, {s: "If the organized secretary had filed the documents when she first received them, they are easy to find."}],
-["f", ds, {s: "If the homemade beer had been left to ferment more, it would have been drinkable."}]//,
+["f", ds, {s: "If the homemade beer had been left to ferment more, it would have been drinkable."}],
 // ["f", ds, {s: "The cowboy that the bulls tried to trample injured herself getting off a horse."}],
 // ["f", ds, {s: "The patient that was admitted to the hospital last month still suffers severe pain in his left leg."}],
 // ["f", ds, {s: "Very few economists that work in downtown DC will traveling to Russia this year."}],
@@ -126,5 +126,6 @@ var items = [
 // ["f", ds, {s: "The little girl that played a ghost with a bed sheet on Halloween scared himself in the mirror."}],
 // ["f", ds, {s: "The child that chases the neighbor's dogs around the yard likes playing games."}]
 
+["outro", Message, {html: "You're done!"}],
 
 ];
