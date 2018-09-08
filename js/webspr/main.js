@@ -1,32 +1,14 @@
-var serverURI = "server.py";
-
 var body = document.getElementsByTagName("body")[0];
 
-var counter = parseInt(readCookie("counter"));
-var randomCounter = false;
-if (counter == NaN) {
-    counter = Math.floor(Math.random() * 10000);
-    randomCounter = true;
-}
-
-var sendingResults = document.createElement("p");
-sendingResults.className = "sending-results";
-var spinSpan = document.createElement("div");
-spinSpan.appendChild(document.createTextNode(""));
-spinSpan.style.width = "1.5em";
-spinSpan.style.cssFloat = "left";
-spinSpan.style.styleFloat = "left";
-sendingResults.appendChild(spinSpan);
-var sendingResultsMessage = document.createElement("div");
-sendingResultsMessage.appendChild(document.createTextNode(" Sending results to server..."));
-sendingResults.appendChild(sendingResultsMessage);
+counter = Math.floor(Math.random() * 10000);
+randomCounter = true;
 
 // Convert the "defaults" variable to a list of [item, hashtable] pairs.
 var ht_defaults = [];
 if (typeof(defaults) != "undefined") {
     assert_is_arraylike(defaults, "'defaults' variable must be set to an Array.");
     assert(defaults.length % 2 == 0, "'defaults' Array must have an even number of elements.");
-    
+
     for (var i = 0; i < defaults.length; i += 2) {
         assert(typeof(defaults[i]) == "function", "Odd members of the 'defaults' array must be object constructor functions.");
         assert_is_dict(defaults[i + 1], "Even members of the 'defaults' array must be dictionaries.");
@@ -81,7 +63,7 @@ iter(items, function(it) {
         else {
             type = typeAndGroup;
         }
-        
+
         var opts = get_defaults_for(controller);
         opts = merge_dicts(opts, options);
 
@@ -98,7 +80,7 @@ iter(items, function(it) {
     }
     currentItemSet.type = type;
     currentItemSet.group = group;
-    listOfItemSets.push(currentItemSet); 
+    listOfItemSets.push(currentItemSet);
 
     ++itemNumber;
  });
@@ -334,73 +316,4 @@ document.onkeydown = function(e) {
 
     if (currentControllerInstance.handleKey)
         currentControllerInstance.handleKey(e.keyCode, time);
-}
-
-function indicateThatResultsAreBeingSent()
-{
-    // Clear "practice" notice if it's still up.
-    practiceBox.replaceChild(document.createTextNode(""), practiceBox.firstChild);
-
-    body.replaceChild(sendingResults, mainDiv);
-    var spinChars = ["\u2013", "\\", "|", "/"]
-    var spinCharsPos = 0
-    function timerCallback()
-    {
-        // Stop the callback if spinSpan no longer has any children.
-        if (spinSpan.childNodes.length == 0) { return; }
-
-        spinSpan.replaceChild(document.createTextNode(spinChars[spinCharsPos]),
-                              spinSpan.firstChild);
-        ++spinCharsPos;
-        if (spinCharsPos == spinChars.length) {
-            spinCharsPos = 0;
-        }
-        setTimeout(timerCallback, 200);
-    }
-    timerCallback();
-}
-
-function indicateThatResultsWereSent(success)
-{
-    spinSpan.removeChild(spinSpan.firstChild); // This will cause the callback to stop.
-    if (success) {
-        sendingResultsMessage.replaceChild(
-            document.createTextNode(conf_completionMessage),
-            sendingResultsMessage.firstChild
-        );
-    }
-    else {
-        sendingResultsMessage.replaceChild(
-            document.createTextNode(conf_completionErrorMessage),
-            sendingResultsMessage.firstChild
-        );
-    }
-}
-
-// Make a post request to a given address. Address may either be a domain
-// or an IP.
-function sendResults(resultsLines, success, failure)
-{
-    var xmlhttp = getXMLHttpRequest();
-    if (! xmlhttp) {
-        failure();
-    }
-
-    // Prepare the post data.
-    var data = JSON.stringify([randomCounter ? true : false, counter, resultsLines]);
-
-    xmlhttp.onreadystatechange = function() {
-        if (xmlhttp.readyState == 4) {
-            if (xmlhttp.status == 200) {
-                // Great, we successfully sent the results to the server.
-                success();
-            }
-            else {
-                // There was an error sending the results to the server.
-                failure();
-            }
-        }
-    };
-    xmlhttp.open("POST", serverURI, true);
-    xmlhttp.send(data);
 }
