@@ -264,7 +264,7 @@ function finishedCallback(resultsLines) {
         ++posInRunningOrder;
         if (posInRunningOrder >= runningOrder.length) {
             // We've finished the experiment.
-            var data = document.getElementsById('data');
+            var data = document.getElementById('data');
             data.value = JSON.stringify(allResults);
             submit.click();
             alert("Your answers have been submitted.");
