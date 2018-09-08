@@ -1,4 +1,4 @@
-var shuffleSequence = seq("intro", "practice", rshuffle("f", rshuffle("s1", "s2")), "break", rshuffle("q1", "q2"));
+var shuffleSequence = seq("intro", "practice", rshuffle("f", rshuffle("s1", "s2")), "break", rshuffle("q1", "q2"), "outro");
 var practiceItemTypes = ["practice"];
 
 var ds = DashedSentence;
