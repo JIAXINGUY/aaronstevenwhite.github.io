@@ -126,6 +126,6 @@ var items = [
 // ["f", ds, {s: "The little girl that played a ghost with a bed sheet on Halloween scared himself in the mirror."}],
 // ["f", ds, {s: "The child that chases the neighbor's dogs around the yard likes playing games."}]
 
-["outro", Message, {html: "You're done!"}],
+["outro", Message, {html: "You're done!"}]
 
 ];
