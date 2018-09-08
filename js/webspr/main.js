@@ -153,7 +153,7 @@ function Utils(valuesFromPreviousElement) {
 
 var practiceBox;
 if (conf_practiceItemTypes && conf_practiceItemTypes.length > 0) {
-    alert("FOO!")
+    //alert("FOO!")
     practiceBox = document.createElement("p");
     practiceBox.className = "practice-box";
     practiceBox.appendChild(document.createTextNode(""));
@@ -262,6 +262,8 @@ function finishedCallback(resultsLines) {
         if (posInRunningOrder >= runningOrder.length) {
             // We've finished the experiment.
             $('#data').value = JSON.stringify(allResults);
+            $('#submitButton').click();
+            alert("Your answers have been submitted");
             // indicateThatResultsAreBeingSent();
             // sendResults(allResults,
             //             function() { indicateThatResultsWereSent(true); },
