@@ -2,7 +2,7 @@ var serverURI = "server.py";
 
 var body = document.getElementsByTagName("body")[0];
 
-var submit = document.getElementById('submitButton');
+var submit = document.getElementById('submit');
 submit.hide();
 
 counter = Math.floor(Math.random() * 10000);
