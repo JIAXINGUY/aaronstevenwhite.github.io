@@ -11,7 +11,7 @@ share: false
 
 # What I do
 
-I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) and the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) and the [Decompositional Semantic Initiative](http://decomp.net) with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
+I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/) and an affiliation with the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) and the [Decompositional Semantic Initiative](http://decomp.io) with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
 
 # How to find me
 
@@ -28,7 +28,7 @@ Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. V
 
 Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](http://aclweb.org/anthology/N18-1067). In _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, pages 731–744, New Orleans, LA, June 1 – June 6, 2018.
 
-**White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
+**White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
 
 # Upcoming presentations
 
@@ -36,7 +36,7 @@ Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factualit
 
 Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). To be presented at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-**White, A. S.**. 2018. Linking distribution and inference. Colloquium talk to be given at Stanford University, October 12, 2018.
+**White, A. S.**. 2018. Distribution and inference. Colloquium talk to be given at Stanford University, October 12, 2018.
 
 **White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/abstracts/white_nels49_abstract.pdf). Talk to be given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
 
