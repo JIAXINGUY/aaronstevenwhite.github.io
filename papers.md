@@ -16,7 +16,7 @@ Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factualit
 
 **White, A. S.**, V. Hacquard, & J. Lidz. 2018. [Semantic information and the syntax of propositional attitude verbs](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12512). _Cognitive Science 42:2_, pp. 416-456.
 
-**White, A. S.**, V. Hacquard, & J. Lidz. 2018. [The labeling problem in syntactic bootstrapping: Main clause syntax in the acquisition of propositional attitude verbs](white_labeling_2017.pdf). In _Semantics in Acquisition_, eds. K. Syrett and S. Arunachalam. Trends in Language Acquisition Research (TiLAR), 197–222. Amsterdam: John Benjamins Publishing Company.
+**White, A. S.**, V. Hacquard, & J. Lidz. 2018. [The labeling problem in syntactic bootstrapping: Main clause syntax in the acquisition of propositional attitude verbs](papers/white_labeling_2017.pdf). In _Semantics in Acquisition_, eds. K. Syrett and S. Arunachalam. Trends in Language Acquisition Research (TiLAR), 197–222. Amsterdam: John Benjamins Publishing Company.
 
 # 2017
 
