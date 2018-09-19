@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Computational Linguistics
-tagline: University of Rochester (Spring 2018)
+tagline: University of Rochester (Fall 2018)
 ---
 
 # Description
@@ -64,13 +64,13 @@ Upload from Computer. Do not submit coding work by email.
 # Midterm
 
 There will be a take-home midterm, which will tentatively be made available on
-Wednesday, Oct. 10 and will be due two weeks later (Wednesday, Oct. 24).
+Wednesday, Oct. 24 and will be due one week later (Wednesday, Oct. 31).
 
 # Final
 
 For *LIN224 students*, there will be a take-home final exam, which will be made
-available on Wednesday, Dec. 7 and will be due one week later (Wednesday, Dec.
-14).
+available on Wednesday, Dec. 12 and will be due one week later (Wednesday, Dec.
+19).
 
 For *LIN424 students*, there will be a final paper, which will be due on
 Wednesday, Dec. 14. A 500-word prospectus for this paper will be due Monday,
@@ -152,63 +152,43 @@ let me know privately, at the start of the semester.
 
 # Schedule
 
-Aug. | 29 | Introduction to Computational Linguistics | -                                        | -    |
-Sept. | 05 | First steps in Python                    | Downey 2015, Ch. 1-4                     | HW0  |
-Sept. | 10 | Control flow in Python                   | Downey 2015, Ch. 5-9                     | HW1  |
-Sept. | 12 | Collections in Python                    | Downey 2015, Ch. 10-12, 14               | HW2  |
-Sept. | 17 | Classes in Python                        | Downey 2015, Ch. 15-18                   | HW3  |
-Sept. | 19 | Working with text in Python              | Jurafsky & Martin 2018, Ch. 2            | -    |
-Sept. | 24 | Finite state automata                    | Sipser 2013, Ch. 1                       | HW4  |
-Sept. | 26 | Finite state transducers                 | Jurafsky & Martin 2009, Ch. 3            | -    |
-Oct. | 01 | Context free grammars                     | Sipser 2013, Ch. 2.1-2.3                 | HW5  |
-Oct. | 03 | The CKY algorithm                         | Jurafsky & Martin 2009, Ch. 13.1-13.4.1  | -    |
-Oct. | 08 | The Earley algorithm                      | Jurafsky & Martin 2009, Ch. 13.4.2       | -    |
-Oct. | 10 | Shift-reduce parsing                      | Jurafsky & Martin 2018, Ch. 14.1-14.4    | HW6  |
-Oct. | 17 | Mildly context sensitive formalisms       | Clark 2014                               | -    |
-Oct. | 22 | Parsing MCFG/LCFRS                        | Kallmeyer 2013                           | -    |
-Oct. | 24 | Basic probability theory I                | Goldwater 2016, Sec. 1-4                 | MT   |
-Oct. | 29 | Basic probability theory II               | Goldwater 2016, Sec. 5                   | -    |
-Oct. | 31 | \textit{N}-gram models                    | Jurafsky & Martin 2018, Ch. 4            | -    |
-Nov. | 05 | Basic information theory                  | Manning & Schütze 1999 Ch. 2.2           | -    |
-Nov. | 07 | Collocation measures                      | Manning & Schütze 1999 Ch. 5             | HW7  |
-Nov. | 12 | Na\"ive Bayes                             | Jurafsky & Martin 2018, Ch. 6            | (P)  |
-Nov. | 14 | Probabilistic Topic Models                | Steyvers & Griffiths 2007                | HW8  |
-Nov. | 19 | Hidden Markov Models                      | Jurafsky & Martin 2018, Ch. 9.1-9.4      | -    |
-Nov. | 21 | The Forward-Backward algorithm I          | Jurafsky & Martin 2018, Ch. 9.5          | -    |
-Nov. | 26 | The Forward-Backward algorithm II         | -                                        | -    |
-Nov. | 28 | Probabilistic context free grammars       | Jurafsky & Martin 2018, Ch. 13.1-13.7    | -    |
-Dec. | 03 | The Inside-Outside algorithm I            | Manning & Schütze 1999, Ch. 11           | HW9  |
-Dec. | 05 | The Inside-Outside algorithm II           | -                                        | -    |
-Dec. | 07 | Review I                                  | -                                        | HW10 |
-Dec. | 12 | Review II                                 | -                                        | -    |
-
+Aug.  | 29 | Introduction to Computational Linguistics | -                                        | -    |
+Sept. | 05 | First steps in Python                     | Downey 2015, Ch. 1-4                     | HW0  |
+Sept. | 10 | Control flow in Python                    | Downey 2015, Ch. 5-9                     | HW1  |
+Sept. | 12 | Collections in Python I                   | Downey 2015, Ch. 10-12, 14               | HW2  |
+Sept. | 17 | Collections in Python II                  | -                                        | -    |
+Sept. | 19 | Classes in Python                         | Downey 2015, Ch. 15-18                   | -    |
+Sept. | 24 | Working with text in Python               | Jurafsky & Martin 2018, Ch. 2            | HW3  |
+Sept. | 26 | Finite state automata I                   | Sipser 2013, Ch. 1                       | -    |
+Oct.  | 01 | Finite state automata II                  | -                                        | HW4  |
+Oct.  | 03 | Finite state transducers                  | Jurafsky & Martin 2009, Ch. 3            | -    |
+Oct.  | 08 | Context free grammars                     | Sipser 2013, Ch. 2.1-2.3                 | -    |
+Oct.  | 10 | The CKY algorithm                         | Jurafsky & Martin 2009, Ch. 13.1-13.4.1  | HW5  |
+Oct.  | 17 | The Earley algorithm                      | Jurafsky & Martin 2009, Ch. 13.4.2       | -    |
+Oct.  | 22 | Shift-reduce parsing                      | Jurafsky & Martin 2018, Ch. 14.1-14.4    | -    |
+Oct.  | 24 | Mildly context sensitive formalisms       | Clark 2014                               | HW6  |
+Oct.  | 29 | Parsing MCFG/LCFRS                        | Kallmeyer 2013                           | -    |
+Oct.  | 31 | Basic probability theory I                | Goldwater 2016, Sec. 1-4                 | MT   |
+Nov.  | 05 | Basic probability theory II               | Goldwater 2016, Sec. 5                   | -    |
+Nov.  | 07 | N-gram models                             | Jurafsky & Martin 2018, Ch. 4            | -    |
+Nov.  | 12 | Basic information theory                  | Manning & Schütze 1999 Ch. 2.2           | -    |
+Nov.  | 14 | Collocation measures                      | Manning & Schütze 1999 Ch. 5             | HW7  |
+Nov.  | 19 | Naive Bayes                               | Jurafsky & Martin 2018, Ch. 6            | (P)  |
+Nov.  | 21 | Probabilistic Topic Models                | Steyvers & Griffiths 2007                | -    |
+Nov.  | 26 | Hidden Markov Models                      | Jurafsky & Martin 2018, Ch. 9.1-9.4      | -    |
+Nov.  | 28 | The Forward-Backward algorithm I          | Jurafsky & Martin 2018, Ch. 9.5          | HW8  |
+Dec.  | 03 | The Forward-Backward algorithm II         | -                                        | -    |
+Dec.  | 05 | Probabilistic context free grammars       | Jurafsky & Martin 2018, Ch. 13.1-13.7    | -    |
+Dec.  | 07 | The Inside-Outside algorithm I            | Manning & Schütze 1999, Ch. 11           | HW9  |
+Dec.  | 12 | The Inside-Outside algorithm II           | -                                        | -    |
 
 # References
 
-* Clark, A. 2014. [An introduction to multiple context free grammars for linguists]. ms.
-* Downey, A.B. 2015. [*Think Python: How to Think Like a Computer Scientist*] 2nd ed. Green Tea Press.
-* Heinz, J. 2011. [Computational Phonology -- Part I: Foundations]. *Language and Linguistics Compass*. Blackwell.
-* Manning, C. & H. Schutze. 1999. [Foundations of Statistical Natural Language Processing]. MIT Press.
-* Joshi, A.K., and Y. Schabes. [Tree-adjoining grammars]. *Handbook of Formal Languages* 3: 69-124.
-* Jurafsky, D., & Martin, J. H. 2009. [*Speech and Language Processing*] 2nd ed. Pearson.
-* Jurafsky, D., & J.H. Martin. 2018. [*Speech and Language Processing*][1] 3rd ed.
-* Kaplan, R. & M. Kay. 1994. [Regular models of phonological rule systems] *Computational Linguistics* 20:3. 331–378  
-* Sipser, M. 2013. [*Introduction to the Theory of Computation*]. 3rd ed. CENGAGE Learning.
-* Sutton, C. & A. McCallum 2011. [An Introduction to Conditional Random Fields]. *Foundations and Trends in Machine Learning* 4:4. 267–373.
-* Stabler, E. 2010. [Computational perspectives on minimalism]. In C. Boeckx, ed. *Oxford Handbook of Linguistic Minimalism*. 616-641. Oxford University Press.
-* Steedman, M. & J. Baldridge. 2011. [Combinatory Categorial Grammar]. In R. D. Borsley and K. Börjars (eds), *Non-Transformational Syntax: Formal and Explicit Models of Grammar*. Wiley-Blackwell, Oxford, UK.
-* Steyvers, M. & T. Griffiths. 2007. [Probabilistic Topic Models]. In T. Landauer, D. McNamara, S. Dennis, and W. Kintsch (eds), *Latent Semantic Analysis: A Road to Meaning*. Laurence Erlbaum.
-
-  [An introduction to multiple context free grammars for linguists]: http://www.cs.rhul.ac.uk/home/alexc/lot2012/mcfgsforlinguists.pdf
-  [*Think Python: How to Think Like a Computer Scientist*]: http://greenteapress.com/wp/think-python-2e/
-  [Computational Phonology -- Part I: Foundations.]: http://onlinelibrary.wiley.com.ezp.lib.rochester.edu/doi/10.1111/j.1749-818X.2011.00269.x/abstract
-  [Tree-adjoining grammars]: https://www.cis.upenn.edu/~joshi/joshi-schabes-tag-97.pdf
-  [Foundations of Statistical Natural Language Processing]: http://ics.upjs.sk/~pero/web/documents/pillar/Manning_Schuetze_StatisticalNLP.pdf
-  [*Speech and Language Processing*]: http://stp.lingfil.uu.se/~santinim/ml/2014/JurafskyMartinSpeechAndLanguageProcessing2ed_draft%202007.pdf
-  [1]: https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
-  [*Introduction to the Theory of Computation*]: https://theswissbay.ch/pdf/Book/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf
-  [An Introduction to Conditional Random Fields]: http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf
-  [Computational perspectives on minimalism]: http://linguistics.ucla.edu/people/stabler/Stabler10-Min.pdf
-  [Probabilistic Topic Models]: http://psiexp.ss.uci.edu/research/papers/SteyversGriffithsLSABookFormatted.pdf
-  [Regular models of phonological rule systems]: https://web.stanford.edu/~mjkay/Kaplan%26Kay.pdf
-  [Combinatory Categorial Grammar]: http://lingo.stanford.edu/sag/L222B/papers/Steedman.pdf
+* Clark, A. 2014. An introduction to multiple context free grammars for linguists.
+* Downey, A.B. 2015. *Think Python: How to Think Like a Computer Scientist* 2nd ed. Green Tea Press.
+* Goldwater, S. 2016. Basic probability theory.
+* Jurafsky, D., & Martin, J. H. 2009. *Speech and Language Processing* 2nd ed. Pearson.
+* Jurafsky, D., & J.H. Martin. 2018. *Speech and Language Processing* 3rd ed.
+* Kallmeyer, L. 2013. Linear Context-Free Rewriting Systems. *Language and Linguistics Compass* 7/1: 22–38
+* Sipser, M. 2013. *Introduction to the Theory of Computation*. 3rd ed. CENGAGE Learning.
+* Steyvers, M. & T. Griffiths. 2007. Probabilistic Topic Models. In T. Landauer, D. McNamara, S. Dennis, and W. Kintsch (eds), *Latent Semantic Analysis: A Road to Meaning*. Laurence Erlbaum.
