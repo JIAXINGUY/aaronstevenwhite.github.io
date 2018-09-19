@@ -12,6 +12,8 @@ Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. V
 
 Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](http://aclweb.org/anthology/N18-1067). In _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, pages 731–744, New Orleans, LA, June 1 – June 6, 2018.
 
+**White, A. S.** & K. Rawlins. 2017. [Question agnosticism and change of state](papers/white_question_2018.pdf). In the *Proceedings of Sinn und Bedeutung 21*, eds. R. Truswell, C. Cummins, C. Heycock, B. Rabern, and H. Rohde, 1325-1342. Semantics Archive.
+
 **White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
 
 **White, A. S.**, V. Hacquard, & J. Lidz. 2018. [Semantic information and the syntax of propositional attitude verbs](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12512). _Cognitive Science 42:2_, pp. 416-456.
@@ -25,8 +27,6 @@ Lidz, J., **A. S. White**, & R. Baier. 2017. [The role of incremental parsing in
 **White, A. S.**, P. Rastogi, K. Duh, & B. Van Durme. 2017. [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aclweb.org/anthology/I/I17/I17-1100.pdf). _Proceedings of the The 8th International Joint Conference on Natural Language Processing_, pages 996–1005, Taipei, Taiwan, November 27 – December 1, 2017.
 
 **White, A. S.**, K. Rawlins, & B. Van Durme. 2017. [The Semantic Proto-Role Linking Model](http://aclweb.org/anthology/E/E17/E17-2015.pdf). _Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics_, pages 92–98, Valencia, Spain, April 3-7, 2017.
-
-**White, A. S.** & K. Rawlins. 2017. [Question agnosticism and change of state](papers/white_question_2017.pdf). To appear in the *Proceedings of Sinn und Bedeutung 21*.
 
 Fetters, M. & **A. S. White** 2017. Pseudogapping does not involve heavy shift. _Proceedings of the 34th West Coast Conference on Formal Linguistics_, ed. A. Kaplan et al., 205-213. Somerville, MA: Cascadilla Proceedings Project.
 
