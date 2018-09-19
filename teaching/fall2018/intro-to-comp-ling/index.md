@@ -22,12 +22,12 @@ theory and developing students' ability to implement these techniques.
 
 | **Classroom**    | 513 Lattimore Hall                                      |
 | **Time**         | Monday & Wednesday 10:25-11:40am                        |
-
+|                  |                                                         |
 | **Instructor**   | [Aaron Steven White](http://aswhite.net)                |
 | **Office**       | 511A Lattimore Hall                                     |
 | **Office hours** | Tuesday 9:30-10:30am & 12:30-1:30pm (or by appointment) |
 | **Email**        | aaron.white@rochester.edu                               |
-
+|                  |                                                         |
 | **TA**           | Venkat Govindarajan                                     |
 | **Office**       | 4107 Wegmans Hall                                       |
 | **Email**        | vgovinda@ur.rochester.edu                               |
@@ -171,9 +171,9 @@ Oct.  | 29 | Parsing MCFG/LCFRS                        | Kallmeyer 2013         
 Oct.  | 31 | Basic probability theory I                | Goldwater 2016, Sec. 1-4                 | MT   |
 Nov.  | 05 | Basic probability theory II               | Goldwater 2016, Sec. 5                   | -    |
 Nov.  | 07 | N-gram models                             | Jurafsky & Martin 2018, Ch. 4            | -    |
-Nov.  | 12 | Basic information theory                  | Manning & Schütze 1999 Ch. 2.2           | -    |
+Nov.  | 12 | Basic information theory                  | Manning & Schütze 1999 Ch. 2.2           | (P)  |
 Nov.  | 14 | Collocation measures                      | Manning & Schütze 1999 Ch. 5             | HW7  |
-Nov.  | 19 | Naive Bayes                               | Jurafsky & Martin 2018, Ch. 6            | (P)  |
+Nov.  | 19 | Naive Bayes                               | Jurafsky & Martin 2018, Ch. 6            | -    |
 Nov.  | 21 | Probabilistic Topic Models                | Steyvers & Griffiths 2007                | -    |
 Nov.  | 26 | Hidden Markov Models                      | Jurafsky & Martin 2018, Ch. 9.1-9.4      | -    |
 Nov.  | 28 | The Forward-Backward algorithm I          | Jurafsky & Martin 2018, Ch. 9.5          | HW8  |
