@@ -38,7 +38,7 @@ Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. V
 
 **White, A. S.** 2018. Distribution, Inference, and Event Structure. Colloquium talk to be given at Stanford University, October 12, 2018.
 
-**White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/abstracts/white_nels49_abstract.pdf). Talk to be given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
+**White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk to be given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
 
 Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](presentations/slides/rudinger_naacl2018_slides.pdf). Talk given at the 2018 Conference of the North American Chapter of the Association for Computational Linguistics, New Orleans, LA, June 1 – June 6, 2018.
 
