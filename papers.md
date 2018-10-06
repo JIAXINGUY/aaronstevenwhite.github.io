@@ -12,7 +12,7 @@ Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. V
 
 Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](http://aclweb.org/anthology/N18-1067). In _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, pages 731–744, New Orleans, LA, June 1 – June 6, 2018.
 
-**White, A. S.** & K. Rawlins. 2017. [Question agnosticism and change of state](papers/white_question_2018.pdf). In the *Proceedings of Sinn und Bedeutung 21*, eds. R. Truswell, C. Cummins, C. Heycock, B. Rabern, and H. Rohde, 1325-1342. Semantics Archive.
+**White, A. S.** & K. Rawlins. 2018. [Question agnosticism and change of state](https://semanticsarchive.net/Archive/DRjNjViN/WhiteRawlins.pdf). In the *Proceedings of Sinn und Bedeutung 21*, eds. R. Truswell, C. Cummins, C. Heycock, B. Rabern, and H. Rohde, 1325-1342. Semantics Archive.
 
 **White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
 
