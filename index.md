@@ -36,7 +36,7 @@ Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factualit
 
 Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). To be presented at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-**White, A. S.** 2018. Distribution, Inference, and Event Structure. Colloquium talk to be given at Stanford University, October 12, 2018.
+**White, A. S.** 2018. [Distribution, Inference, and Event Structure](presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk to be given at Stanford University, October 12, 2018.
 
 **White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk to be given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
 
