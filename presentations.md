@@ -6,15 +6,15 @@ share: false
 
 # Recent and upcoming presentations
 
-**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](https://arxiv.org/pdf/1808.06232.pdf). To be presented at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
+**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](presentations/slides/white_emnlp2018_lexicosyntactic_slides.pdf). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). To be presented at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-**White, A. S.** 2018. Linking distribution and inference. Colloquium talk to be given at Stanford University, October 12, 2018.
+**White, A. S.** 2018. [Distribution, Inference, and Event Structure](presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018.
 
-**White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk to be given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
+**White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
 
-Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](presentations/slides/rudinger_naacl2018_slides.pdf). Given at the 2018 Conference of the North American Chapter of the Association for Computational Linguistics, New Orleans, LA, June 1 – June 6, 2018.
+Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](presentations/slides/rudinger_naacl2018_slides.pdf). Talk given at the 2018 Conference of the North American Chapter of the Association for Computational Linguistics, New Orleans, LA, June 1 – June 6, 2018.
 
 # Past presentations
 
