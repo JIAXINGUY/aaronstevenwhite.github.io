@@ -22,13 +22,13 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 
 # Recent publications
 
+Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
+
 **White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation](http://aclweb.org/anthology/D18-1007). _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](http://aclweb.org/anthology/N18-1067). In _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, pages 731–744, New Orleans, LA, June 1 – June 6, 2018.
-
-**White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
 
 # Recent and upcoming presentations
 
