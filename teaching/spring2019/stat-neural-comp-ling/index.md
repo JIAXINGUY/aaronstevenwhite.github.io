@@ -36,9 +36,8 @@ Throughout the semester you will be developing a course project that will
 culminate in an ACL-style conference paper. This project consists of five main
 components: (i) six checkpoints; (ii) a prospectus; (iii) a mid-semester
 prospectus presentation; (iv) a final project presentation; and (v) the paper
-itself. I will provide a list of potential projects at the beginning of the
-semester. You may opt to do something not included in this list, but I must
-approve it.
+itself. A list of potential projects can be found here. You may opt to do
+something not included in this list, but I must approve it.
 
 ## Checkpoints
 
@@ -83,25 +82,6 @@ is four pages with an optional fifth page for the "camera ready" version; a
 standard long paper is eight pages with an optional ninth for the "camera ready"
 version; and a standard submission to TACL is ten pages with more allowed for
 revisions.
-
-# Midterm
-
-There will be a take-home midterm, which will tentatively be made available on
-Wednesday, Oct. 24 and will be due one week later (Wednesday, Oct. 31).
-
-# Final
-
-For *LIN224 students*, there will be a take-home final exam, which will be made
-available on Wednesday, Dec. 12 and will be due one week later (Wednesday, Dec.
-19).
-
-For *LIN424 students*, there will be a final paper, which will be due on
-Wednesday, Dec. 14. A 500-word prospectus for this paper will be due Monday,
-Nov. 12. More information will be made available closer to that date.
-
-LIN224 students may opt to write a final paper in place of the final
-exam, but they should do so with the knowledge that this paper will be
-graded relative to a rubric designed for graduate student papers.
 
 # Tools
 
