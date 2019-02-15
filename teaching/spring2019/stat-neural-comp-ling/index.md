@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Introduction to Computational Linguistics
-tagline: University of Rochester (Fall 2018)
+title: Statistical and Neural Computational Linguistics
+tagline: University of Rochester (Spring 2019)
 ---
+
+# Course
+
+LIN281/481: Statistical and Neural Computational Linguistics
 
 # Description
 
@@ -17,7 +21,6 @@ parsing, semantic parsing, and natural language inference.
 
 | **Classroom**    | 513 Lattimore Hall                                      |
 | **Time**         | Monday & Wednesday 12:30-1:45pm                         |
-|                  |                                                         |
 | **Instructor**   | [Aaron Steven White](http://aswhite.net)                |
 | **Office**       | 511A Lattimore Hall                                     |
 | **Office hours** | Tuesday 9-11am                                          |
@@ -36,8 +39,8 @@ Throughout the semester you will be developing a course project that will
 culminate in an ACL-style conference paper. This project consists of five main
 components: (i) six checkpoints; (ii) a prospectus; (iii) a mid-semester
 prospectus presentation; (iv) a final project presentation; and (v) the paper
-itself. A list of potential projects can be found here. You may opt to do
-something not included in this list, but I must approve it.
+itself. A list of potential projects can be found [here](project.html). You may
+opt to do something not included in this list, but I must approve it.
 
 ## Checkpoints
 
@@ -153,10 +156,10 @@ let me know privately, at the start of the semester.
 | Jan. 23 | Introduction                                  | -                                                                                     |     |
 | Jan. 28 | Clustering in Python I                        | -                                                                                     |     |
 | Jan. 30 | Clustering in Python II                       | -                                                                                     |     |
-| Feb. 4  | Mixture Models in PythonPhonetic Categories I | -                                                                                     |     |
+| Feb. 4  | Mixture Models in Python                      | -                                                                                     |     |
 | Feb. 6  | Phonetic Categories I                         | Feldman et al. 2013                                                                   |     |
 | Feb. 11 | Phonetic Categories II                        | -                                                                                     |     |
-| Feb. 13 | Phonetic Categories IIII                      | Kronrod et al. 2016                                                                   |     |
+| Feb. 13 | Phonetic Categories III                       | -                                                                                     |     |
 | Feb. 18 | Phonotactic Grammars I                        | Hayes & Wilson 2008, Sec. 1-5                                                         |     |
 | Feb. 20 | Phonotactic Grammars II                       | Hayes & Wilson 2008, Sec. 6-9                                                         |     |
 | Feb. 25 | Phonotactic Grammars III                      | Futrell et al. 2017, Sec. 1-2                                                         |     |
@@ -169,10 +172,15 @@ let me know privately, at the start of the semester.
 | Mar. 20 | Linear Models and Multilayer Perceptrons      | Goldberg 2017, Ch. 2-5                                                                | P   |
 | Mar. 25 | Word Embeddings                               | Goldberg 2017, Ch. 6, 8, 10-11                                                        |     |
 | Mar. 27 | Recurrent Neural Networks                     | Goldberg 2017, Ch. 15-16                                                              | C3  |
-| Apr. 1  | Morphophonological Grammars III               | Goldberg 2017, Ch. 17-17.2, Faruqui et al. 2016                                       |     |
+| Apr. 1  | Morphophonological Grammars III               | Goldberg 2017, Ch. 17-17.2                                                            |     |
+|         |                                               | Faruqui et al. 2016                                                                   |     |
 | Apr. 3  | Morphophonological Grammars IV                | -                                                                                     | C4  |
-| Apr. 8  | Syntactic Parsing I                           | Linzen et al. 2016, Marvin and Linzen 2018, Gulordava et al. 2018, Wilcox et al. 2018 |     |
-| Apr. 10 | Syntactic Parsing II                          | Goodkind and Bicknell 2018, van Schijndel and Linzen 2018, 2019                       | C5  |
+| Apr. 8  | Syntactic Parsing I                           | Linzen et al. 2016                                                                    |     |
+|         |                                               | Marvin and Linzen 2018                                                                |     |
+|         |                                               | Gulordava et al. 2018                                                                 |     |
+|         |                                               | Wilcox et al. 2018                                                                    |     |
+| Apr. 10 | Syntactic Parsing II                          | Goodkind and Bicknell 2018,                                                           | C5  |
+|         |                                               | van Schijndel and Linzen 2018, 2019                                                   |     |
 | Apr. 15 | Natural Language Inference I                  | Bowman et al. 2015                                                                    |     |
 | Apr. 17 | Natural Language Inference II                 | White et al. 2017, Poliak et al. 2018                                                 | C6  |
 | Apr. 22 | Decompositional Semantic Parsing I            | Rudinger et al. 2018a, b                                                              |     |
