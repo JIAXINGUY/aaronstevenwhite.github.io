@@ -39,7 +39,7 @@ Throughout the semester you will be developing a course project that will
 culminate in an ACL-style conference paper. This project consists of five main
 components: (i) six checkpoints; (ii) a prospectus; (iii) a mid-semester
 prospectus presentation; (iv) a final project presentation; and (v) the paper
-itself. A list of potential projects can be found [here](project.html). You may
+itself. A list of potential projects will be made available. You may
 opt to do something not included in this list, but I must approve it.
 
 ## Checkpoints
