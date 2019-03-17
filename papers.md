@@ -6,6 +6,8 @@ share: false
 
 # 2019
 
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). [arXiv:1902.10296](https://arxiv.org/abs/1902.10296) [cs.CL].
+
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). [arXiv:1902.01390](https://arxiv.org/abs/1902.01390) [cs.CL].
 
 Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
