@@ -22,25 +22,23 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 
 # Recent publications
 
-Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). [arXiv:1902.10296](https://arxiv.org/abs/1902.10296) [cs.CL].
-
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). [arXiv:1902.01390](https://arxiv.org/abs/1902.01390) [cs.CL].
 
 Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
+
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). To appear in *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*.
 
 **White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 # Recent and upcoming presentations
 
+Yan, S. & **A.S. White**. 2019. A Framework for Decoding Event-Related Potentials from Text. To be presented at the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019), Minneapolis, MN, June 7, 2019.
+
 **White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](presentations/slides/white_emnlp2018_lexicosyntactic_slides.pptx). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
 Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-**White, A. S.** 2018. [Distribution, Inference, and Event Structure](presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018.
-
 **White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
-
-Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factuality](presentations/slides/rudinger_naacl2018_slides.pdf). Talk given at the 2018 Conference of the North American Chapter of the Association for Computational Linguistics, New Orleans, LA, June 1 – June 6, 2018.
 
 # Where I've been
 

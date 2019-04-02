@@ -6,7 +6,7 @@ share: false
 
 # 2019
 
-Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). [arXiv:1902.10296](https://arxiv.org/abs/1902.10296) [cs.CL].
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). To appear in *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*.
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). [arXiv:1902.01390](https://arxiv.org/abs/1902.01390) [cs.CL].
 
