@@ -6,6 +6,8 @@ share: false
 
 # 2019
 
+**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). [lingbuzz/004572](https://ling.auf.net/lingbuzz/004572).
+
 Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). To appear in *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*.
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). [arXiv:1902.01390](https://arxiv.org/abs/1902.01390) [cs.CL].
