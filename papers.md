@@ -6,15 +6,15 @@ share: false
 
 # 2019
 
-**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). [lingbuzz/004596](https://ling.auf.net/lingbuzz/004596).
+**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under review at *Glossa*.
 
-**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). [lingbuzz/004572](https://ling.auf.net/lingbuzz/004572).
+**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under review at *Semantics and Pragmatics*.
 
-Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). To appear in _Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)_, Minneapolis, MN, June 7, 2019.
+Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). To appear in *Transactions of the Association for Computational Linguistics*.
 
-Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). To appear in _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)_, Florence, Italy, July 29-31, 2019.
+Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). To appear in *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)*, Florence, Italy, July 29-31, 2019.
 
-Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://www.aclweb.org/anthology/W19-2910). In *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*, pages 86–92, Minneapolis, USA, June 7, 2019.
 
 # 2018
 

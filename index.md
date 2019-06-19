@@ -22,30 +22,26 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 
 # Recent papers
 
-**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). [lingbuzz/004596](https://ling.auf.net/lingbuzz/004596).
+**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under review at *Glossa*.
 
-**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). [lingbuzz/004572](https://ling.auf.net/lingbuzz/004572).
+**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under review at *Semantics and Pragmatics*.
 
-Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://arxiv.org/pdf/1902.10296.pdf). To appear in *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*, Minneapolis, MN, June 7, 2019.
+Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). To appear in *Transactions of the Association for Computational Linguistics*.
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). To appear in *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)*, Florence, Italy, July 29-31, 2019.
 
-Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](https://www.aclweb.org/anthology/W19-2910). In *Proceedings of the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019)*, pages 86–92, Minneapolis, USA, June 7, 2019.
 
 # Recent and upcoming presentations
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. Fine-Grained Temporal Relation Extraction. To be presented at the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy, July 29-31, 2019.
 
-Yan, S. & **A.S. White**. 2019. A Framework for Decoding Event-Related Potentials from Text. To be presented at the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019), Minneapolis, MN, June 7, 2019.
+Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](posters/yan_cmcl2019_poster.pdf). Poster presented at the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019), Minneapolis, MN, June 7, 2019.
 
 **White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](presentations/slides/white_emnlp2018_lexicosyntactic_slides.pptx). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
-
-**White, A. S.** & K. Rawlins. 2018. [The typology of veridicality inferences](presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
-
 # Where I've been
 
-I received my BA in [Linguistics](http://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](http://ucsc.edu/) in 2009, followed by a year in the [Department of Linguistics](http://ling.umd.edu/) at the [University of Maryland](http://umd.edu/) as a [Baggett Fellow](http://ling.umd.edu/baggett/). I went on to receive my PhD in [Linguistics](http://ling.umd.edu/) from the [University of Maryland](http://umd.edu/) in 2015. My dissertation, [_Information and Incrementality in Syntactic Bootstrapping_]({{ site.url }}/papers/white_information_2015.pdf), was co-advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff Lidz](http://ling.umd.edu/~jlidz/).
+Before joining the University of Rochester, I was a postdoctoral fellow at [Johns Hopkins University](http://jhu.edu)'s [Science of Learning Institute](http://scienceoflearning.jhu.edu/) with affiliations in the [Department of Cognitive Science](http://cogsci.jhu.edu/) and the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/) from 2015 to 2017. While at Hopkins, I worked on the [JHU Decompositional Semantics Initiative (Decomp)](http://decomp.net/), led by [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/), and I led the [MegaAttitude Project](http://megaattitude.io) with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
 
-From 2015 to 2017, I was a postdoctoral fellow at [Johns Hopkins University](http://jhu.edu)'s [Science of Learning Institute](http://scienceoflearning.jhu.edu/) with affiliations in the [Department of Cognitive Science](http://cogsci.jhu.edu/) and the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/). While at Hopkins, I worked on the [JHU Decompositional Semantics Initiative (Decomp)](http://decomp.net/), led by [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/), and I led the [MegaAttitude Project](http://megaattitude.io) with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
+I received my PhD in [Linguistics](http://ling.umd.edu/) from the [University of Maryland](http://umd.edu/) in 2015. My dissertation, [_Information and Incrementality in Syntactic Bootstrapping_]({{ site.url }}/papers/white_information_2015.pdf), was co-advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff Lidz](http://ling.umd.edu/~jlidz/). Before that, I received my BA in [Linguistics](http://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](http://ucsc.edu/) in 2009, followed by a year in the [Department of Linguistics](http://ling.umd.edu/) at the [University of Maryland](http://umd.edu/) as a [Baggett Fellow](http://ling.umd.edu/baggett/).
