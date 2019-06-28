@@ -34,7 +34,7 @@ Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Rel
 
 # Recent and upcoming presentations
 
-Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. Fine-Grained Temporal Relation Extraction. To be presented at the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy, July 29-31, 2019.
+Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. Fine-Grained Temporal Relation Extraction. Talk to be given at the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy, July 29-31, 2019.
 
 Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](presentations/posters/yan_cmcl2019_poster.pdf). Poster presented at the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019), Minneapolis, MN, June 7, 2019.
 
