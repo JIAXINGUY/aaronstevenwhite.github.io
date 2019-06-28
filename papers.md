@@ -6,6 +6,8 @@ share: false
 
 # 2019
 
+**White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). Under review at *Handbook of Pragmatics*. John Benjamins Publishing Company.
+
 **White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under review at *Glossa*.
 
 **White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under review at *Semantics and Pragmatics*.
