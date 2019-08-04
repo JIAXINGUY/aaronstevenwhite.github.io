@@ -13,9 +13,11 @@ share: false
 
 I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/) and an affiliation with the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) and the [Decompositional Semantic Initiative](http://decomp.io) with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
 
+<font color="red"><b>I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020. Contact me to set up a time to chat about the positions.</b></font>
+
 # How to find me
 
-| **Email**    | [{{ site.author.mail }}](mailto:{{ site.author.mail }})                           |
+| **Email**    | [{{ site.author.mail }}](mailto:{{ site.author.mail }})                             |
 | **Github**   | [{{ site.author.github }}](http://github.com/{{ site.author.github }})              |
 | **Twitter**  | [{{ site.author.twitter }}](http://twitter.com/{{ site.author.twitter }})           |
 | **Office**   | 511A Lattimore Hall                                                                 |
