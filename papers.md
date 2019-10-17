@@ -4,6 +4,10 @@ title: Papers
 share: false
 ---
 
+# 2020
+
+An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). To appear in *Proceedings of the Society for Computation in Linguistics* 3.
+
 # 2019
 
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). Under review at *Handbook of Pragmatics*. John Benjamins Publishing Company.
@@ -12,7 +16,7 @@ share: false
 
 **White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
 
-Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). To appear in *Transactions of the Association for Computational Linguistics*.
+Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285). *Transactions of the Association for Computational Linguistics* 7: 501–517.
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. [Fine-Grained Temporal Relation Extraction](https://www.aclweb.org/anthology/P19-1280). In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)*, Florence, Italy, July 29-31, 2019.
 

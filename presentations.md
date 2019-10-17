@@ -8,9 +8,11 @@ share: false
 
 Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. To be presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
 
-Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
+An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
 
-**White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, October 2019.
+**White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
+
+Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 # Past presentations
 
