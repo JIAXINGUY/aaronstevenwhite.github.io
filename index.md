@@ -12,9 +12,11 @@ share: false
 # What I do
 
 I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/) and an affiliation with the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) and the [Decompositional Semantic Initiative](http://decomp.io) with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
-<br/>
-<br/>
-<font color="red"><b>I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020. Contact me to set up a time to chat about the positions.</b></font>
+
+# News
+
+- I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.
+- I did [an interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) about the [Decompositional Semantic Initiative](http://decomp.io) on NLP Highlights.
 
 # How to find me
 
@@ -26,6 +28,10 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 # Recent papers
 
 An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). To appear in *Proceedings of the Society for Computation in Linguistics* 3.
+
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138 [cs.CL]](https://arxiv.org/abs/1910.10138) [cs.CL].
+
+**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
 
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). To appear in *Handbook of Pragmatics*. John Benjamins Publishing Company.
 
@@ -40,6 +46,8 @@ Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generaliza
 An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
 
 **White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
+
+**White, A.S.** & K. Rawlins. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at Current Approaches to Clause-Embedding, NYU, November 1, 2019.
 
 Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 

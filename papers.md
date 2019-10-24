@@ -10,6 +10,10 @@ An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-rai
 
 # 2019
 
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138 [cs.CL]](https://arxiv.org/abs/1910.10138) [cs.CL].
+
+**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
+
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). Under review at *Handbook of Pragmatics*. John Benjamins Publishing Company.
 
 **White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under revision for *Glossa*.
