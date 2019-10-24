@@ -15,8 +15,9 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 
 # News
 
-- I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.
-- I did [an interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) about the [Decompositional Semantic Initiative](http://decomp.io) on NLP Highlights.
+I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.
+
+I did [an interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) about the [Decompositional Semantic Initiative](http://decomp.io) on NLP Highlights.
 
 # How to find me
 
