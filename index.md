@@ -11,13 +11,27 @@ share: false
 
 # What I do
 
-I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/) and an affiliation with the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) and the [Decompositional Semantic Initiative](http://decomp.io) with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
+I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/) and an affiliation with the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the [FACTS.lab](http://factslab.io) at UR, and I co-lead the [MegaAttitude Project](http://megaattitude.io) and the [Decompositional Semantic Initiative](http://decomp.io).
+<br/>
+<br/>
+<font color="#AF4C2E"><b>I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.</b></font>
 
 # News
 
-I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.
-
+<i>Oct. 22, 2019</i><br/>
+We released the [spec](https://arxiv.org/abs/1910.10138) for the first omnibus decompositional semantic parser, along with associated metrics and a [leaderboard](http://decomp.io/leaderboards/).
+<br/>
+<br/>
+<i>Oct. 15, 2019</i><br/>
+We released the [MegaNegRaising](http://megaattitude.io/projects/mega-negraising/) v1.0 and [MegaAcceptability](http://megaattitude.io/projects/mega-acceptability/) v2.0 datasets.
+<br/>
+<br/>
+<i>Oct. 1, 2019</i><br/>
 I did [an interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) about the [Decompositional Semantic Initiative](http://decomp.io) on NLP Highlights.
+<br/>
+<br/>
+<i>Sep. 30, 2019</i><br/>
+We [released](https://github.com/decompositional-semantics-initiative/decomp) the Universal Decompositional Semantics dataset v1.0 (UDS1.0) and the Decomp toolkit v0.1. 
 
 # How to find me
 
@@ -48,12 +62,12 @@ An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-rais
 
 **White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
 
-**White, A.S.** & K. Rawlins. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at Current Approaches to Clause-Embedding, NYU, November 1, 2019.
+Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
 
 Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 # Where I've been
 
-Before joining the University of Rochester, I was a postdoctoral fellow at [Johns Hopkins University](http://jhu.edu)'s [Science of Learning Institute](http://scienceoflearning.jhu.edu/) with affiliations in the [Department of Cognitive Science](http://cogsci.jhu.edu/) and the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/) from 2015 to 2017. While at Hopkins, I worked on the [Decompositional Semantics Initiative (Decomp)](http://decomp.net/), led by [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/), and I led the [MegaAttitude Project](http://megaattitude.io) with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
+Before joining the University of Rochester, I was a postdoctoral fellow at [Johns Hopkins University](http://jhu.edu)'s [Science of Learning Institute](http://scienceoflearning.jhu.edu/) with affiliations in the [Department of Cognitive Science](http://cogsci.jhu.edu/) and the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/) from 2015 to 2017. While at Hopkins, I worked on the [Decompositional Semantics Initiative](http://decomp.io/), led by [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/), and I led the [MegaAttitude Project](http://megaattitude.io) with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/).
 
 I received my PhD in [Linguistics](http://ling.umd.edu/) from the [University of Maryland](http://umd.edu/) in 2015. My dissertation, [_Information and Incrementality in Syntactic Bootstrapping_]({{ site.url }}/papers/white_information_2015.pdf), was co-advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff Lidz](http://ling.umd.edu/~jlidz/). Before that, I received my BA in [Linguistics](http://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](http://ucsc.edu/) in 2009, followed by a year in the [Department of Linguistics](http://ling.umd.edu/) at the [University of Maryland](http://umd.edu/) as a [Baggett Fellow](http://ling.umd.edu/baggett/).

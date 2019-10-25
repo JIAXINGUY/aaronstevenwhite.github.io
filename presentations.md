@@ -12,6 +12,8 @@ An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-rais
 
 **White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
 
+Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
+
 Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 # Past presentations
