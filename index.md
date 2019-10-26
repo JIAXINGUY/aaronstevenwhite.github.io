@@ -18,6 +18,10 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 
 # News
 
+<i>Oct. 26, 2019</i><br/>
+We released the [MegaOrientation](http://megaattitude.io/projects/mega-orientation/) v1.0 dataset.
+<br/>
+<br/>
 <i>Oct. 22, 2019</i><br/>
 We released the [spec](https://arxiv.org/abs/1910.10138) for the first omnibus decompositional semantic parser, along with associated metrics and a [leaderboard](http://decomp.io/leaderboards/).
 <br/>
