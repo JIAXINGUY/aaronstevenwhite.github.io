@@ -14,7 +14,7 @@ An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-rais
 
 Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
 
-Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
+Moon, E. & **A.S. White**. 2019. [The source of nonfinite temporal interpretation](presentations/slides/moon_nels50_slides.pdf). To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 # Past presentations
 
@@ -22,9 +22,9 @@ Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. Fine-Grained Temporal Rela
 
 Yan, S. & **A.S. White**. 2019. [A Framework for Decoding Event-Related Potentials from Text](presentations/posters/yan_cmcl2019_poster.pdf). Poster presented at the 9th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2019), Minneapolis, MN, June 7, 2019.
 
-**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](presentations/slides/white_emnlp2018_lexicosyntactic_slides.pdf). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
+**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](presentations/slides/white_emnlp2018_lexicosyntactic_slides.pptx). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations. Talk given at the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31-November 4, 2018.
 
 **White, A. S.** 2018. [Distribution, Inference, and Event Structure](presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018.
 
@@ -48,17 +48,17 @@ Hirzel, M., **A. S. White**, & J. Lidz. 2017. Biased distributions in dialogs do
 
 **White, A. S.** 2017.  Factoring word knowledge. Invited talk given for the Goergen Institute for Data Science Seminar Series, University of Rochester. March 2, 2017.
 
-**White, A. S.**, D. Reisinger, K. Sakaguchi, T. Vieira, S. Zhang, R. Rudinger, K. Rawlins, & B. Van Durme. 2016. [Universal decompositional semantics on universal dependencies](http://aclweb.org/anthology/D/D16/D16-1177.pdf). Presented at [Empirical Methods in Natural Language Processing 2016](http://www.emnlp2016.net/), Austin, TX. November 1–5, 2016.
+**White, A. S.**, D. Reisinger, K. Sakaguchi, T. Vieira, S. Zhang, R. Rudinger, K. Rawlins, & B. Van Durme. 2016. Universal decompositional semantics on universal dependencies. Presented at [Empirical Methods in Natural Language Processing 2016](http://www.emnlp2016.net/), Austin, TX. November 1–5, 2016.
 
-**White, A. S.** & K. Rawlins. 2016. [Question agnosticism and change of state](slides/white_sub21_slides.pdf). Given at [Sinn und Bedeutung 21](https://sites.google.com/site/sinnundbedeutung21/), University of Edinburgh. September 4-6, 2016.
+**White, A. S.** & K. Rawlins. 2016. [Question agnosticism and change of state](presentations/slides/white_sub21_slides.pdf). Given at [Sinn und Bedeutung 21](https://sites.google.com/site/sinnundbedeutung21/), University of Edinburgh. September 4-6, 2016.
 
-**White, A. S.** & K. Rawlins. 2016. [A computational model of S-selection](slides/white_salt_2016_slides.pdf). Given at Semantics and Linguistic Theory 26, University of Texas, Austin. May 12-15, 2016.
+**White, A. S.** & K. Rawlins. 2016. [A computational model of S-selection](presentations/slides/white_salt_2016_slides.pdf). Given at Semantics and Linguistic Theory 26, University of Texas, Austin. May 12-15, 2016.
 
 Fetters, M. & **A. S. White**. 2016. [Pseudogapping does not involve heavy shift](https://docs.google.com/presentation/d/1A5va6y6fsG12U96G_NsW2BtWfgx221DU7ku0uZyQao4/edit?usp=sharing). Given at the 34th West Coast Conference on Formal Linguistics, University of Utah. April 29-May 1, 2016.
 
-**White, A. S.** & J. Sprouse. 2016. [The trace of categorical structure in gradient judgments](posters/white_sprouse_wccfl34_poster.pdf). Presented at the 34th West Coast Conference on Formal Linguistics, University of Utah. April 29-May 1, 2016.
+**White, A. S.** & J. Sprouse. 2016. [The trace of categorical structure in gradient judgments](presentations/posters/white_sprouse_wccfl34_poster.pdf). Presented at the 34th West Coast Conference on Formal Linguistics, University of Utah. April 29-May 1, 2016.
 
-**White, A. S.**, V. Hacquard, P. Resnik, & J. Lidz. 2016. [Subcategorization frame entropy in online verb-learning](posters/white_cuny2016_poster.pdf). Presented at the 29th CUNY Conference on Human Sentence Processing, University of Florida. March 3-5, 2016.
+**White, A. S.**, V. Hacquard, P. Resnik, & J. Lidz. 2016. [Subcategorization frame entropy in online verb-learning](presentations/posters/white_cuny2016_poster.pdf). Presented at the 29th CUNY Conference on Human Sentence Processing, University of Florida. March 3-5, 2016.
 
 **White, A. S.** 2015. Learner as lexical semanticist. Distinguished Alumnus Address, Linguistics Undergraduate Research Conference, University of California, Santa Cruz. May 29th, 2015.
 
@@ -66,11 +66,11 @@ Altshuler, D., V. Hacquard, T. Roberts, & **A. S. White**. 2015. [On double acce
 
 **White, A. S.** 2015. [Soft implicative entailments](https://docs.google.com/presentation/d/1qAopUSp6G2IdMyUrvZKoRfcQ25N5--6nSd53Z4SymL0/edit?usp=sharing). Given at the 89th Annual Meeting of the Linguistic Society of America, Portland, OR. January 8-11, 2015.
 
-**White, A. S.** 2014. [Contextually modulated syntactic variability in child-directed speech](posters/white_iascl2014_poster.pdf). Presented at the 13th International Congress for the Study of Child Language, Amsterdam, The Netherlands. July 14-18, 2014.
+**White, A. S.** 2014. [Contextually modulated syntactic variability in child-directed speech](presentations/posters/white_iascl2014_poster.pdf). Presented at the 13th International Congress for the Study of Child Language, Amsterdam, The Netherlands. July 14-18, 2014.
 
 **White, A. S.**, V. Hacquard, & J. Lidz. 2014. Syntactic sources of semantics and pragmatics. Presented at the 13th International Congress for the Study of Child Language, Amsterdam, The Netherlands. July 14-18, 2014.
 
-**White, A. S.** 2013. [Factive-implicatives and modalized complements](posters/white_nels44_poster.pdf). Presented at the 44th annual meeting of the North East Linguistic Society, University of Connecticut. October 18-20, 2013.
+**White, A. S.** 2013. [Factive-implicatives and modalized complements](presentations/posters/white_nels44_poster.pdf). Presented at the 44th annual meeting of the North East Linguistic Society, University of Connecticut. October 18-20, 2013.
 
 **White, A. S.** & T. Grano. 2013. An experimental investigation of partial control. Presented at Sinn und Bedeutung 18, University of the Basque Country. September 11-13, 2013.
 
