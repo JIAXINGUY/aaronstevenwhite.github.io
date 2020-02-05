@@ -12,7 +12,7 @@ An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-r
 
 **White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
 
-**White, A.S.** 2019. \href{https://benjamins.com/online/hop/articles/lex4}{Lexically triggered veridicality inferences}. In \textit{Handbook of Pragmatics}, eds. J. \"Ostman \& J. Verschueren. John Benjamins Publishing Company.
+**White, A.S.** 2019. [Lexically triggered veridicality inferences](https://benjamins.com/online/hop/articles/lex4). In _Handbook of Pragmatics_, eds. J. Östman \& J. Verschueren. John Benjamins Publishing Company.
 
 Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
 
