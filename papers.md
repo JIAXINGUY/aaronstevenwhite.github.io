@@ -6,17 +6,19 @@ share: false
 
 # 2020
 
-An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). To appear in *Proceedings of the Society for Computation in Linguistics* 3.
+An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, pages 220-233.  New Orleans, Louisiana, January 2-5, 2020.
 
 # 2019
 
-Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138 [cs.CL]](https://arxiv.org/abs/1910.10138) [cs.CL].
+**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
+
+**White, A.S.** 2019. \href{https://benjamins.com/online/hop/articles/lex4}{Lexically triggered veridicality inferences}. In \textit{Handbook of Pragmatics}, eds. J. \"Ostman \& J. Verschueren. John Benjamins Publishing Company.
+
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
 
 **White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
 
-**White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). Under review at *Handbook of Pragmatics*. John Benjamins Publishing Company.
-
-**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under revision for *Glossa*.
+Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under review at \textit{Neurobiology of Language}.
 
 **White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
 

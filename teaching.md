@@ -6,15 +6,17 @@ share: false
 
 # Current courses
 
+Introduction to Computational Linguistics. Instructor. University of Rochester. Spring 2020.
+
+# Past courses
+
 Introduction to Computational Linguistics. Instructor. University of Rochester. Fall 2019.
 
 Computational Semantics. Co-instructor. University of Rochester. Fall 2019.
 
-# Past courses
+Statistical and Neural Computational Linguistics. Instructor. University of Rochester. Spring 2019.
 
-[Statistical and Neural Computational Linguistics](teaching/spring2019/stat-neural-comp-ling/). Instructor. University of Rochester. Spring 2019.
-
-[Introduction to Computational Linguistics](teaching/fall2018/intro-to-comp-ling/). Instructor. University of Rochester. Fall 2018.
+Introduction to Computational Linguistics. Instructor. University of Rochester. Fall 2018.
 
 Introduction to Semantic Analysis. Instructor. University of Rochester. Fall 2018.
 

@@ -8,15 +8,15 @@ share: false
 
 Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. To be presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
 
-An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
+# Past presentations
+
+An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. Poster presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
 
 **White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
 
-Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
+Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. Talk given at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
 
-Moon, E. & **A.S. White**. 2019. [The source of nonfinite temporal interpretation](presentations/slides/moon_nels50_slides.pdf). To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
-
-# Past presentations
+Moon, E. & **A.S. White**. 2019. [The source of nonfinite temporal interpretation](presentations/slides/moon_nels50_slides.pdf). Talk given at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 Vashishtha, S., B. Van Durme, & **A.S. White**. 2019. Fine-Grained Temporal Relation Extraction. Talk given at the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy, July 29-31, 2019.
 

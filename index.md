@@ -16,59 +16,12 @@ I'm an Assistant Professor in the [Department of Linguistics](http://www.sas.roc
 <br/>
 <font color="#AF4C2E"><b>I will be accepting up to three PhD students in Linguistics and/or Computer Science to start Fall 2020.</b></font>
 
-# News
-
-<i>Oct. 26, 2019</i><br/>
-We released the [MegaOrientation](http://megaattitude.io/projects/mega-orientation/) v1.0 dataset.
-<br/>
-<br/>
-<i>Oct. 22, 2019</i><br/>
-We released the [spec](https://arxiv.org/abs/1910.10138) for the first omnibus decompositional semantic parser, along with associated metrics and a [leaderboard](http://decomp.io/leaderboards/).
-<br/>
-<br/>
-<i>Oct. 15, 2019</i><br/>
-We released the [MegaNegRaising](http://megaattitude.io/projects/mega-negraising/) v1.0 and [MegaAcceptability](http://megaattitude.io/projects/mega-acceptability/) v2.0 datasets.
-<br/>
-<br/>
-<i>Oct. 1, 2019</i><br/>
-I did [an interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) about the [Decompositional Semantic Initiative](http://decomp.io) on NLP Highlights.
-<br/>
-<br/>
-<i>Sep. 30, 2019</i><br/>
-We [released](https://github.com/decompositional-semantics-initiative/decomp) the Universal Decompositional Semantics dataset v1.0 (UDS1.0) and the Decomp toolkit v0.1. 
-
 # How to find me
 
 | **Email**    | [{{ site.author.mail }}](mailto:{{ site.author.mail }})                             |
 | **Github**   | [{{ site.author.github }}](http://github.com/{{ site.author.github }})              |
 | **Twitter**  | [{{ site.author.twitter }}](http://twitter.com/{{ site.author.twitter }})           |
 | **Office**   | 511A Lattimore Hall                                                                 |
-
-# Recent papers
-
-An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). To appear in *Proceedings of the Society for Computation in Linguistics* 3.
-
-Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138 [cs.CL]](https://arxiv.org/abs/1910.10138) [cs.CL].
-
-**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
-
-**White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). To appear in *Handbook of Pragmatics*. John Benjamins Publishing Company.
-
-**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Under revision for *Glossa*.
-
-**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
-
-# Recent and upcoming presentations
-
-Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. To be presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
-
-An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
-
-**White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
-
-Rawlins, K. & **A.S. White**. 2019. Veridicality, factivity, and embedded clauses at the scale of the lexicon. To be presented at the Workshop on Clausal Complements and Sentence-Embedding Predicates, NYU, November 1, 2019.
-
-Moon, E. & **A.S. White**. 2019. [The source of nonfinite temporal interpretation](presentations/slides/moon_nels50_slides.pdf). To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
 
 # Where I've been
 
