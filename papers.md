@@ -18,7 +18,7 @@ Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive 
 
 **White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
 
-Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under review at \textit{Neurobiology of Language}.
+Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under review at _Neurobiology of Language_.
 
 **White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
 
