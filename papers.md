@@ -6,17 +6,17 @@ share: false
 
 # 2020
 
+**White, A.S.** & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
+
+**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). Accepted to  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.
+
 An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, pages 220-233.  New Orleans, Louisiana, January 2-5, 2020.
 
 # 2019
 
-**White, A.S.** & K. Rawlins. 2019. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
-
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://benjamins.com/online/hop/articles/lex4). In _Handbook of Pragmatics_, eds. J. Östman & J. Verschueren. John Benjamins Publishing Company.
 
 Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
-
-**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). [arXiv:1909.13851](https://arxiv.org/abs/1909.13851) [cs.CL].
 
 Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under review at _Neurobiology of Language_.
 
