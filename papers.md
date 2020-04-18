@@ -8,6 +8,8 @@ share: false
 
 **White, A.S.** & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
 
+**White, A.S.** 2020. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under second review for *Semantics and Pragmatics*.
+
 **White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). Accepted to  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.
 
 An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, pages 220-233.  New Orleans, Louisiana, January 2-5, 2020.
@@ -16,11 +18,9 @@ An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-r
 
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://benjamins.com/online/hop/articles/lex4). In _Handbook of Pragmatics_, eds. J. Östman & J. Verschueren. John Benjamins Publishing Company.
 
-Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). Accepted to *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, Seattle, WA, July 5-10, 2020.
 
-Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under review at _Neurobiology of Language_.
-
-**White, A.S.** 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
+Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under revision for _Neurobiology of Language_.
 
 Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285). *Transactions of the Association for Computational Linguistics* 7: 501–517.
 
@@ -38,7 +38,7 @@ Rudinger, R., **A. S. White**, & B. Van Durme. 2018. [Neural Models of Factualit
 
 **White, A. S.** & K. Rawlins. 2018. [Question agnosticism and change of state](https://semanticsarchive.net/Archive/DRjNjViN/WhiteRawlins.pdf). In the *Proceedings of Sinn und Bedeutung 21*, eds. R. Truswell, C. Cummins, C. Heycock, B. Rabern, and H. Rohde, 1325-1342. Semantics Archive.
 
-**White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). To appear in the *Proceedings of the 48th Meeting of the North East Linguistic Society*.
+**White, A. S.** & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](papers/white_role_2018.pdf). In *Proceedings of the 48th Meeting of the North East Linguistic Society (NELS 48)*, eds. Sherry Hucklebridge and Max Nelson, 221-234. Amherst, MA: Graduate Linguistics Student Association.
 
 **White, A. S.**, V. Hacquard, & J. Lidz. 2018. [Semantic information and the syntax of propositional attitude verbs](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12512). _Cognitive Science 42:2_, pp. 416-456.
 
