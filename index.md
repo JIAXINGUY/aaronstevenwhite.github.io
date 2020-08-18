@@ -38,21 +38,13 @@ Learning Institute](http://scienceoflearning.jhu.edu/) with
 affiliations in the [Department of Cognitive
 Science](http://cogsci.jhu.edu/) and the [Center for Language and
 Speech Processing](http://www.clsp.jhu.edu/) from 2015 to 2017. While
-at Hopkins, I worked on the [Decompositional Semantics
-Initiative](http://decomp.io/), led by [Ben Van
-Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle
-Rawlins](http://sites.krieger.jhu.edu/rawlins/), and I led the
-[MegaAttitude Project](http://megaattitude.io) with [Kyle
-Rawlins](http://sites.krieger.jhu.edu/rawlins/).
+at JHU, I worked with [Kyle
+Rawlins](https://rawlins.io/) and [Ben Van
+Durme](http://www.cs.jhu.edu/~vandurme/).
 
 I received my PhD in [Linguistics](http://ling.umd.edu/) from the
-[University of Maryland](http://umd.edu/) in 2015. My dissertation,
-[_Information and Incrementality in Syntactic Bootstrapping_]({{
-site.url }}/papers/white_information_2015.pdf), was co-advised by
-[Valentine Hacquard](http://ling.umd.edu/~hacquard/) and [Jeff
-Lidz](http://ling.umd.edu/~jlidz/). Before that, I received my BA in
-[Linguistics](http://linguistics.ucsc.edu/) from the [University of
-California, Santa Cruz](http://ucsc.edu/) in 2009, followed by a year
-in the [Department of Linguistics](http://ling.umd.edu/) at the
-[University of Maryland](http://umd.edu/) as a [Baggett
-Fellow](http://ling.umd.edu/baggett/).
+[University of Maryland](http://umd.edu/) in 2015, where my
+dissertation, [_Information and Incrementality in Syntactic
+Bootstrapping_]({{ site.url }}/papers/white_information_2015.pdf), was
+co-advised by [Valentine Hacquard](http://ling.umd.edu/~hacquard/) and
+[Jeff Lidz](http://ling.umd.edu/~jlidz/).

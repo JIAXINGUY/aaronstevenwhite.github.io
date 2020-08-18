@@ -8,11 +8,11 @@ share: false
 
 Kim, G. & **A.S. White**. 2020. Montague Grammar Induction. To be presented at Semantics and Linguistics Theory 30, Cornell University, August 17-20, 2020.
 
-Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. To be presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
-
-Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2020. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). To be presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
-
 # Past presentations
+
+Govindarajan, V.S., B. Van Durme, & **A.S. White**. 2020. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. Presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
+
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2020. Universal Decompositional Semantic Parsing. Presented at the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 5-10, 2019.
 
 An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. Poster presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
 

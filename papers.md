@@ -8,17 +8,19 @@ share: false
 
 **White, A.S.** & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
 
-**White, A.S.** 2020. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under second review for *Semantics and Pragmatics*.
+**White, A.S.** 2020. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Accepted with revisions at *Semantics and Pragmatics*.
 
-**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). Accepted to  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.
+Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Universal Decompositional Semantic Parsing](https://www.aclweb.org/anthology/2020.acl-main.746.pdf). *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, pages 8427–8439. Seattle, WA, July 5-10, 2020.
+
+**White, A.S.**, E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://www.aclweb.org/anthology/2020.lrec-1.699.pdf). _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.  pages 5698–5707, Marseille, 11–16 May 2020. European Language Resources Association (ELRA).
+
+Moon, E. & **A.S. White**.  2020.  [The source of nonfinite temporal interpretation](https://ling.auf.net/lingbuzz/005282/current.pdf). In *Proceedings of the 50th Meeting of the North East Linguistic Society (NELS 50)*. Amherst, MA: Graduate Linguistics Student Association.
 
 An, H.Y. & **A.S. White**.  2020.  [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, pages 220-233.  New Orleans, Louisiana, January 2-5, 2020.
 
 # 2019
 
 **White, A.S.** 2019. [Lexically triggered veridicality inferences](https://benjamins.com/online/hop/articles/lex4). In _Handbook of Pragmatics_, eds. J. Östman & J. Verschueren. John Benjamins Publishing Company.
-
-Stengel-Eskin, E. **A.S. White**, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). Accepted to *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, Seattle, WA, July 5-10, 2020.
 
 Yan, S. & **A.S. White**. 2019. [Understanding Event Related Potentials during Reading using Pre-Compiled Abstractive Decoders](https://psyarxiv.com/mwpf5/). Under revision for _Neurobiology of Language_.
 
