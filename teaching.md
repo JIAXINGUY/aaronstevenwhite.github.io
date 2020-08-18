@@ -4,11 +4,15 @@ title: Teaching
 share: false
 ---
 
-# Current courses
+# Future courses
 
-Introduction to Computational Linguistics. Instructor. University of Rochester. Spring 2020.
+Introduction to Computational Linguistics. Instructor. University of Rochester. Spring 2021.
+
+Neural Computational Linguistics. Instructor. University of Rochester. Spring 2021.
 
 # Past courses
+
+Introduction to Computational Linguistics. Instructor. University of Rochester. Spring 2020.
 
 Introduction to Computational Linguistics. Instructor. University of Rochester. Fall 2019.
 
