@@ -1,0 +1,250 @@
+- year: accepted
+  papers:
+  - citation: "White, Aaron Steven, and Kyle Rawlins. accepted. Frequency, Acceptability, and Selection: A Case Study of Clause-Embedding. <i>Glossa</i>."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/004596/current.pdf"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/frequency-acceptability-selection"
+    
+  - citation: "White, Aaron Steven. accepted with revisions. Nothing's Wrong with Believing (or Hoping) Whether. <i>Semantics and Pragmatics</i>."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
+
+
+- year: to appear
+  papers:
+  - citation: "Moon, Ellise, and Aaron Steven White. to appear. The Source of Nonfinite Temporal Interpretation. In <i>Proceedings of the 50th Annual Meeting of the North East Linguistic Society</i>. Amherst, MA: GLSA Publications."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005282/current.pdf"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-orientation/"	
+      
+
+- year: 2020
+  papers:
+
+  - citation: "White, Aaron Steven, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Subrahmanyan Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, et al. 2020. The Universal Decompositional Semantics Dataset and Decomp Toolkit. In <i>Proceedings of The 12th Language Resources and Evaluation Conference</i>, 5698–5707. Marseille, France: European Language Resources Association."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.lrec-1.699.pdf"
+    - label: "code + data"
+      href: "https://github.com/decompositional-semantics-initiative/decomp"
+
+  - citation: "Stengel-Eskin, Elias, Aaron Steven White, Sheng Zhang, and Benjamin Van Durme. 2020. Universal Decompositional Semantic Parsing. In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i>, 8427–8439. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.acl-main.746.pdf"
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/2020.acl-main.746"
+
+  - citation: "An, Hannah Youngeun, and Aaron Steven White. 2020. The Lexical and Grammatical Sources of Neg-Raising Inferences. In <i>Proceedings of the Society for Computation in Linguistics</i> 3: 220–233."
+    links:
+    - label: "pdf"
+      href: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-negraising/"	
+    - label: "doi"
+      href: "https://doi.org/10.7275/yts0-q989"
+
+- year: 2019
+  papers:
+  - citation: "Govindarajan, Venkata, Benjamin Van Durme, and Aaron Steven White. 2019. Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements. <i>Transactions of the Association for Computational Linguistics</i> 7: 501–517."
+    links:
+    - label: "pdf"
+      href: "http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285"
+    - label: "data"
+      href: "http://decomp.io/projects/genericity/"
+    - label: "doi"
+      href: "https://doi.org/10.1162/tacl_a_00285"
+
+  - citation: "Vashishtha, Siddharth, Benjamin Van Durme, and Aaron Steven White. 2019. Fine-Grained Temporal Relation Extraction. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i>, 2906–2919. Florence, Italy: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/P19-1280.pdf"
+    - label: "data"
+      href: "http://decomp.io/projects/time/"
+    - label: "doi"
+      href: "http://dx.doi.org/10.18653/v1/P19-1280"
+
+  - citation: "White, Aaron Steven. 2019. Lexically Triggered Veridicality Inferences. In <i>Handbook of Pragmatics</i>, 22:115–148. John Benjamins Publishing Company."
+    links:
+    - label: "pdf (preprint)"
+      href: "https://ling.auf.net/lingbuzz/004664"
+    - label: "doi"
+      href: "https://doi.org/10.1075/hop.22.lex4"
+
+  - citation: "Yan, Shaorong, and Aaron Steven White. 2019. A Framework for Decoding Event-Related Potentials from Text. In <i>Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics</i>, 86–92. Minneapolis, Minnesota: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/W19-2910.pdf"
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/W19-2910"
+
+- year: 2018
+  papers:
+  - citation: "White, Aaron Steven, Valentine Hacquard, and Jeffrey Lidz. 2018. Semantic Information and the Syntax of Propositional Attitude Verbs. <i>Cognitive Science</i> 42 (2): 416–456."
+    links:
+    - label: "pdf"
+      href: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.12512"
+    - label: "data"
+      href: "https://github.com/aaronstevenwhite/ProjectionExperiments"      
+    - label: "doi"
+      href: "https://doi.org/10.1111/cogs.12512"
+
+  - citation: "White, Aaron Steven, Valentine Hacquard, and Jeffrey Lidz. 2018. The Labeling Problem in Syntactic Bootstrapping: Main Clause Syntax in the Acquisition of Propositional Attitude Verbs. In <i>Semantics in Acquisition</i>, edited by Kristen Syrett and Sudha Arunachalam, 198–220. Trends in Language Acquisition Research (TiLAR) 24. John Benjamins Publishing Company."
+    links:
+    - label: "pdf (preprint)"
+      href: "https://ling.auf.net/lingbuzz/002917/current.pdf"
+    - label: "code"
+      href: "https://github.com/aaronstevenwhite/MainClauseModel"
+    - label: "doi"
+      href: "https://doi.org/10.1075/tilar.24.09whi"
+
+  - citation: "Poliak, Adam, Aparajita Haldar, Rachel Rudinger, J. Edward Hu, Ellie Pavlick, Aaron Steven White, and Benjamin Van Durme. 2018. Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation. In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i>, 67–81. Brussels, Belgium: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/D18-1007.pdf"
+    - label: "data"
+      href: "http://decomp.io/projects/diverse-natural-language-inference/"
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/D18-1007"
+
+  - citation: "Rudinger, Rachel, Aaron Steven White, and Benjamin Van Durme. 2018. Neural Models of Factuality. In <i>Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)</i>, 731–744. New Orleans, Louisiana: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/N18-1067.pdf"
+    - label: "data"
+      href: "http://decomp.io/projects/factuality/"
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/N18-1067"
+
+  - citation: "White, Aaron Steven, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme. 2018. Lexicosyntactic Inference in Neural Models. In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i>, 4717–4724. Brussels, Belgium: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/N18-1501.pdf"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-veridicality/"      
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/D18-1501"
+
+  - citation: "White, Aaron Steven, and Kyle Rawlins. 2018. The Role of Veridicality and Factivity in Clause Selection. In <i>Proceedings of the 48th Annual Meeting of the North East Linguistic Society</i>, edited by Sherry Hucklebridge and Max Nelson, 221–234. Amherst, MA: GLSA Publications."
+    links:
+    - label: "pdf (preprint)"
+      href: "https://ling.auf.net/lingbuzz/004012/current.pdf"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-veridicality/"
+
+  - citation: "White, Aaron Steven, and Kyle Rawlins. 2018. Question Agnosticism and Change of State. In <i>Proceedings of Sinn Und Bedeutung 21</i>, edited by Robert Truswell, Chris Cummins, Caroline Heycock, Brian Rabern, and Hannah Rohde, 1325–1342. University of Edinburgh."
+    links:
+    - label: "pdf"
+      href: "https://semanticsarchive.net/Archive/DRjNjViN/WhiteRawlins.pdf"
+
+- year: 2017
+  papers:
+  - citation: "Lidz, Jeffrey, Aaron Steven White, and Rebecca Baier. 2017. The Role of Incremental Parsing in Syntactically Conditioned Word Learning. <i>Cognitive Psychology</i> 97: 62–78."
+    links:
+    - label: "pdf (preprint)"
+      href: "https://ling.auf.net/lingbuzz/003145/current.pdf"
+    - label: "doi"
+      href: "https://doi.org/10.1016/j.cogpsych.2017.06.002"
+
+  - citation: "White, Aaron Steven, Pushpendre Rastogi, Kevin Duh, and Benjamin Van Durme. 2017. Inference Is Everything: Recasting Semantic Resources into a Unified Evaluation Framework. In <i>Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</i>, 996–1005. Taipei, Taiwan: Asian Federation of Natural Language Processing."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/I17-1100.pdf"
+    - label: "data"
+      href: "http://decomp.io/projects/diverse-natural-language-inference/"
+
+  - citation: "White, Aaron Steven, Kyle Rawlins, and Benjamin Van Durme. 2017. The Semantic Proto-Role Linking Model. In <i>Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers</i>, 92–98. Valencia, Spain: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/E17-2015.pdf"
+    - label: "code"
+      href: "https://github.com/aaronstevenwhite/SemanticProtoRoleLinkingModel"
+
+  - citation: "Fetters, Michael, and Aaron Steven White. 2017. Pseudogapping Does Not Involve Heavy Shift. In <i>Proceedings of the 34th West Coast Conference on Formal Linguistics</i>, edited by Aaron Kaplan, Abby Kaplan, Miranda K. McCarvel, and Edward J. Rubin, 205–213. Somerville, MA: Cascadilla Proceedings Project."
+
+
+- year: 2016
+  papers:
+  - citation: "White, Aaron Steven, Dee Ann Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme. 2016. Universal Decompositional Semantics on Universal Dependencies. In <i>Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing</i>, 1713–1723. Austin, Texas: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/D16-1177.pdf"
+    - label: "data"
+      href: "http://decomp.io/data/"
+    - label: "doi"
+      href: "https://doi.org/10.18653/v1/D16-1177"
+
+  - citation: "White, Aaron Steven, and Kyle Rawlins. 2016. A Computational Model of S-Selection. Edited by Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf. <i>Semantics and Linguistic Theory</i> 26: 641–663."
+    links:
+    - label: "pdf"
+      href: "http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/26.641/3662"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-acceptability/"
+    - label: "doi"
+      href: "https://doi.org/10.3765/salt.v26i0.3819"
+
+
+- year: 2015
+  papers:
+  - citation: "White, Aaron Steven. 2015. <i>Information and Incrementality in Syntactic Bootstrapping.</i> PhD Thesis, College Park, MD: University of Maryland."
+    links:
+    - label: "pdf"
+      href: "https://drum.lib.umd.edu/bitstream/handle/1903/17095/White_umd_0117E_16547.pdf"
+    - label: "doi"
+      href: "https://doi.org/10.13016/M2X938"
+  
+  - citation: "Altshuler, Daniel Gordon, Valentine Hacquard, Thomas Roberts, and Aaron Steven White. 2015. On Double Access, Cessation and Parentheticality. Edited by Sarah D’Antonio, Mary Moroney, and Carol Rose Little. <i>Semantics and Linguistic Theory</i> 25: 18–37."
+    links:
+    - label: "pdf"
+      href: "http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.18/2920"      
+    - label: "doi"
+      href: "https://doi.org/10.3765/salt.v25i0.3048"
+
+- year: 2014
+  papers:
+  - citation: "White, Aaron Steven. 2014. Factive-Implicatives and Modalized Complements. In <i>Proceedings of the 44th Annual Meeting of the North East Linguistic Society</i>, edited by Jyoti Iyer and Leland Kusmer, 2:267–278. Amherst, MA: GLSA Publications."
+    links:
+    - label: "pdf (preprint)"
+      href: "http://aaronstevenwhite.io/papers/white_factive-implicatives_2014.pdf"
+
+  - citation: "White, Aaron Steven, and Thomas Grano. 2014. An Experimental Investigation of Partial Control. In <i>Proceedings of Sinn Und Bedeutung</i>, edited by U. Etxeberria, A. Falaus, A. Irurtzun, and B. Leferman, 18:469–486."
+    links:
+    - label: "pdf"
+      href: "https://semanticsarchive.net/sub2013/SeparateArticles/White&Grano.pdf"
+    - label: "data"
+      href: "https://github.com/aaronstevenwhite/PartialControlExperiments"
+
+  - citation: "White, Aaron Steven, Rachel Dudley, Valentine Hacquard, and Jeffrey Lidz. 2014. Discovering Classes of Attitude Verbs Using Subcategorization Frame Distributions. In <i>Proceedings of the 43rd Annual Meeting of the North East Linguistic Society</i>, edited by Hsin-Lun Huang, Ethan Poole, and Amanda Rysling, 2:249–260. Amherst, MA: GLSA Publications."
+    links:
+    - label: "pdf (preprint)"
+      href: "http://aaronstevenwhite.io/papers/white_discovering_2014.pdf"
+    - label: "data"
+      href: "https://github.com/aaronstevenwhite/ProjectionExperiments"      
+
+
+- year: "under revision"
+  papers:
+  - citation: "Yan, Shaorong, and Aaron Steven White. under revision. Understanding Event Related Potentials during Reading Using Pre-Compiled Abstractive Decoders. Neurobiology of Language."
+    links:
+    - label: "pdf"
+      href: "https://psyarxiv.com/mwpf5/download"
+    - label: "doi"
+      href: "https://doi.org/10.31234/osf.io/mwpf5"
+
+
+- year: manuscripts
+  papers:
+  - citation: "White, Aaron Steven. 2016. The Interaction of Implicativity with the Form and Scope of Negation."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/003179"
+
+  - citation: "White, Aaron Steven, Philip Resnik, Valentine Hacquard, and Jeffrey Lidz. 2016. “The Contextual Modulation of Semantic Information.” Johns Hopkins University."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/003188/current.pdf"

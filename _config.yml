@@ -24,7 +24,7 @@ blog:
   load_google_fonts          : 'Rubik:400,400italic,700,700italic'
 
 
-# Author info
+# author info
 author:
   fullname                  : Aaron Steven White
   rss                       : false # generate RSS feed and show it's icon in header
@@ -36,9 +36,7 @@ author:
   disqus                    : #factslab # your disqus site name
   google_analytics          : 'UA-113465669-1'
   photo                     : "assets/img/aaron-white.jpg"
-  photo2x                   : "assets/img/aaron-white.jpg"
-
-
+  photo2x                   : "assets/img/aaron-white.jpg"  
 
 ## !!
 ## Advanced blog settings
