@@ -243,8 +243,12 @@
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/003179"
+    - label: "data"
+      href: "https://github.com/aaronstevenwhite/ImplicativeExperiments"
 
   - citation: "White, Aaron Steven, Philip Resnik, Valentine Hacquard, and Jeffrey Lidz. 2016. “The Contextual Modulation of Semantic Information.” Johns Hopkins University."
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/003188/current.pdf"
+    - label: "data"
+      href: "https://github.com/aaronstevenwhite/SpatialHumanSimulationExperiments"
