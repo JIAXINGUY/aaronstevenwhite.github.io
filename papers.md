@@ -4,6 +4,8 @@ title: Papers
 share: false
 ---
 
+All of the citations listed below are collected in the .bib file located [here](aaronstevenwhite.bib).
+
 {% for batch in site.data.papers %}
 
   <h1>{{ batch.year }}</h1>
