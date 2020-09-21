@@ -12,6 +12,10 @@
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
 
+  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. accepted. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
+
+  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. accepted. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>. Online: Association for Computational Linguistics."
+
 
 - year: to appear
   papers:
@@ -21,10 +25,6 @@
       href: "https://ling.auf.net/lingbuzz/005282/current.pdf"
     - label: "data"
       href: "http://megaattitude.io/projects/mega-orientation/"
-
-  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
-
-  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. to appear. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>. Online: : Association for Computational Linguistics."
 
 - year: 2020
   papers:
