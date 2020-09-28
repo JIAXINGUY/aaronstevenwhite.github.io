@@ -16,6 +16,9 @@
       href: "presentations/slides/stengel-eskin_acl2020_slides.pdf"
 
   - citation: "An, H.Y., and A.S. White. 2020. The lexical and grammatical sources of neg-raising inferences. Poster presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020."
+    links:
+    - label: "poster"
+      href: "presentations/posters/an_scil2020_poster.pdf"
 
 - year: 2019
   presentations:
