@@ -23,6 +23,8 @@ Science](http://www.sas.rochester.edu/dsc/). I'm also Director of the
 Project](http://megaattitude.io) and the [Decompositional Semantic
 Initiative](http://decomp.io).
 
+Check out [my recent interview](https://soundcloud.com/nlp-highlights/94-decompositional-semantics-with-aaron-white) on NLP Highlights.
+
 # How to find me
 
 | **Email**    | [{{ site.author.mail }}](mailto:{{ site.author.mail }})                             |
