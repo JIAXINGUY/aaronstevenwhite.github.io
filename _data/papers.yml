@@ -25,7 +25,7 @@
 - year: 2020
   papers:
 
-  - citation: "White, Aaron Steven, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Subrahmanyan Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, et al. 2020. The Universal Decompositional Semantics Dataset and Decomp Toolkit. In <i>Proceedings of The 12th Language Resources and Evaluation Conference</i>, 5698–5707. Marseille, France: European Language Resources Association."
+  - citation: "White, Aaron Steven, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Subrahmanyan Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, Sheng Zhang, Francis Ferraro, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme. 2020. The Universal Decompositional Semantics Dataset and Decomp Toolkit. In <i>Proceedings of The 12th Language Resources and Evaluation Conference</i>, 5698–5707. Marseille, France: European Language Resources Association."
     links:
     - label: "pdf"
       href: "https://www.aclweb.org/anthology/2020.lrec-1.699.pdf"
