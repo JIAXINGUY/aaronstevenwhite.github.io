@@ -19,6 +19,11 @@
 
 - year: to appear
   papers:
+  - citation: "Kim, Gene Louis and Aaron Steven White. to appear. Montague Grammar Induction. <i>Semantics and Linguistic Theory</i> 30."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005498/current.pdf"
+
   - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
   
 
