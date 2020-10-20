@@ -12,8 +12,6 @@
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
 
-  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. accepted. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>. Online: Association for Computational Linguistics."
-
   - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. accepted. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>. Online: Association for Computational Linguistics."
 
 
@@ -23,6 +21,11 @@
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/005498/current.pdf"
+
+  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. to appear. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005503/current.pdf"
 
   - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
   
