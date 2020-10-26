@@ -13,6 +13,9 @@
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
 
   - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. accepted. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://arxiv.org/pdf/1912.01586.pdf"
 
 
 - year: to appear
@@ -26,6 +29,8 @@
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/005503/current.pdf"
+    - label: "code"
+      href: "https://github.com/wgantt/nli-mixed-models"
 
   - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
   
