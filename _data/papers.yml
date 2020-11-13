@@ -5,12 +5,6 @@
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
 
-  - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. accepted. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>. Online: Association for Computational Linguistics."
-    links:
-    - label: "pdf"
-      href: "https://arxiv.org/pdf/1912.01586.pdf"
-
-
 - year: to appear
   papers:
   - citation: "Kim, Gene Louis and Aaron Steven White. to appear. Montague Grammar Induction. <i>Semantics and Linguistic Theory</i> 30."
@@ -24,9 +18,6 @@
       href: "https://ling.auf.net/lingbuzz/005503/current.pdf"
     - label: "code"
       href: "https://github.com/wgantt/nli-mixed-models"
-
-  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
-  
 
 - year: 2020
   papers:
@@ -53,6 +44,11 @@
     - label: "doi"
       href: "https://doi.org/10.18653/v1/2020.acl-main.746"
 
+  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. 2020. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>, 4070–4078. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.findings-emnlp.363.pdf"
+
   - citation: "An, Hannah Youngeun, and Aaron Steven White. 2020. The Lexical and Grammatical Sources of Neg-Raising Inferences. In <i>Proceedings of the Society for Computation in Linguistics</i> 3: 220–233."
     links:
     - label: "pdf"
@@ -69,6 +65,10 @@
     - label: "data"
       href: "http://megaattitude.io/projects/mega-orientation/"
 
+  - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. 2020. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>, 74–83. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.spnlp-1.9.pdf"
 
 - year: 2019
   papers:
