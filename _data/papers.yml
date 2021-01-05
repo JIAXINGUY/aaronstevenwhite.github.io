@@ -1,9 +1,11 @@
 - year: accepted
   papers:
-  - citation: "White, Aaron Steven. accepted with revisions. Nothing's Wrong with Believing (or Hoping) Whether. <i>Semantics and Pragmatics</i>."
+  - citation: "White, Aaron Steven. accepted with revisions. On Believing and Hoping Whether. <i>Semantics and Pragmatics</i>."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
+      href: "https://ling.auf.net/lingbuzz/005665/current.pdf"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"
 
 - year: to appear
   papers:
