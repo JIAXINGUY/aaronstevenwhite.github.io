@@ -249,18 +249,23 @@
     - label: "data"
       href: "https://github.com/aaronstevenwhite/ProjectionExperiments"      
 
-
 - year: "under revision"
   papers:
-  - citation: "Yan, Shaorong, and Aaron Steven White. under revision. Understanding Event Related Potentials during Reading Using Pre-Compiled Abstractive Decoders. Neurobiology of Language."
+  - citation: "Yan, Shaorong, and Aaron Steven White. under revision. Understanding Event Related Potentials during Reading Using Pre-Compiled Abstractive Decoders. <i>Neurobiology of Language</i>."
     links:
     - label: "pdf"
       href: "https://psyarxiv.com/mwpf5/download"
     - label: "doi"
-      href: "https://doi.org/10.31234/osf.io/mwpf5"
+      href: "https://doi.org/10.31234/osf.io/mwpf5"      
 
+- year: "under review"
+  papers:
+  - citation: "Huang, Nick, Aaron Steven White, Chia-Hsuan Liao, Valentine Hacquard, and Jeffrey Lidz. under review. Syntactic bootstrapping attitude verbs despite impoverished morphosyntax. <i>Language Acquisition</i>."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005553/current.pdf"
 
-- year: manuscripts
+- year: unpublished
   papers:
   - citation: "White, Aaron Steven. 2016. The Interaction of Implicativity with the Form and Scope of Negation."
     links:
@@ -269,7 +274,7 @@
     - label: "data"
       href: "https://github.com/aaronstevenwhite/ImplicativeExperiments"
 
-  - citation: "White, Aaron Steven, Philip Resnik, Valentine Hacquard, and Jeffrey Lidz. 2016. “The Contextual Modulation of Semantic Information.” Johns Hopkins University."
+  - citation: "White, Aaron Steven, Philip Resnik, Valentine Hacquard, and Jeffrey Lidz. 2016. The Contextual Modulation of Semantic Information."
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/003188/current.pdf"
